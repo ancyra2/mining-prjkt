@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 gdelt.db
+gdelt.db.wal
 downloads/
 venv/
 raw/
